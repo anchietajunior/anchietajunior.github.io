@@ -17,6 +17,6 @@ title: About
 
 Sou acadêmico em Sistemas de Informação.
 
-Atualmente faço parte da equipe de desenvolvimento na RoyalTI, também como conhecida como Estoque Sistemas, uma empresa de Paulo Afonso - BA focada atualmente ma distribuição e suporte em sistemas de automação comercial, mas que atualmente está investindo em novas soluções principalmente com Ruby on Rails, Angular e tecnologias emergentes.
+Atualmente faço parte da equipe de desenvolvimento na RoyalTI, também como conhecida como Estoque Sistemas, uma empresa de Paulo Afonso - BA focada atualmente na distribuição e suporte em sistemas de automação comercial, mas que atualmente está investindo em novas soluções principalmente com Ruby on Rails, Angular e tecnologias emergentes.
 
 Também sou fundador e organizador do GDG Paulo Afonso, do qual tenho bastante orgulho em fazer parte e contribuir. <3
