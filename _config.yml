@@ -11,9 +11,7 @@ title:            Anchieta Junior
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:      >
-  A pretentious two-column [Jekyll](http://jekyllrb.com/) theme, stolen by [`@qwtel`](https://twitter.com/qwtel)
-  from [Hyde](http://hyde.getpoole.com).
-  You could say it was.. [hydejacked](http://media3.giphy.com/media/makedRIckZBW8/giphy.gif).
+  A simple Blog for learn and share content about Ruby on Rails, Front-end, Javascript and its tools.
 
 # The tags listed as entries in the sidebar
 sidebar_tags:     [jekyll, hyde]
@@ -26,8 +24,8 @@ author:
   name:           'Florian Klampfer'
 
   # Setting social media usernames will add icons at the bottom of the sidebar
-  twitter:        qwtel
-  github:         qwtel
+  twitter:        anchietajr87
+  github:         anchietajunior
 
   # Setting a disqus username will enable the comment section
   disqus:         qwtel
