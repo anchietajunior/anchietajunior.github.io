@@ -7,21 +7,21 @@ url:              http://anchietajunior.github.io
 # Set to '' in case of hosting on `http://<your-github-name>.github.io`
 baseurl:          /anchietajunior.github.io
 
-title:            Anchieta Júnior
+title:            Anchieta Jr.
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:      >
   A simple Blog for learn and share content about Ruby on Rails, Front-end, Javascript and its tools.
 
 # The tags listed as entries in the sidebar
-sidebar_tags:     [jekyll, hyde]
+#sidebar_tags:     [jekyll, hyde, projects]
 
 # Fallback image and color if not overwritten for tag or post
 image:            /anchietajunior.github.io/public/img/nap.jpg
 color:            '#A85641'
 
 author:
-  name:           'Anchieta Júnior'
+  name:           'Anchieta Jr.'
 
   # Setting social media usernames will add icons at the bottom of the sidebar
   twitter:        anchietajr87

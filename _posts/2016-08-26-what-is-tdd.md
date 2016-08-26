@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Setup RSpec and Capybara with Rails 5
+title: O que é TDD? Serve pra quê?
 tags: [hyde]
 ---
 
@@ -16,20 +16,23 @@ tags: [hyde]
   }
 </style>
 
-Hydejack is a pretentious two-column [Jekyll](http://jekyllrb.com) theme, stolen by [`@qwtel`](https://twitter.com/qwtel) from [Hyde](http://hyde.getpoole.com). You could say it was.. [hydejacked](http://media3.giphy.com/media/makedRIckZBW8/giphy.gif).
+## Introdução
+TDD ou Test-Driven Development, que nosso querido PT-BR pode ser traduzido como Desenvolvimento Orientado a Testes é uma metodologia de desenvolvimento derivada do XP (Extreme Programming) que tem como principal função reduzir bugs e garantir uma melhor qualidade no código escrito, além de manter documentado um projeto, basicamente seguindo os seguintes passos:
 
-## Features
-Unlike Hyde, it's opinionated about how you are going to use it (as a blog!)
-Features included are:
+* Pensar em algo que será desenvolvido.
+* Escrever um teste para esta funcionalidade.
+* Fazer com que o teste falhe (claro, nada foi implementado ainda além do teste).
+* Programar a funcionalidade pensada.
+* Executar o teste novamente e garantir que dessa vez o teste passe.
+* "Refatorar" o código escrito e garantir que o mesmo esteja limpo, de fácil entendimento e principalmente correto em relação as convenções de Orientação à Objetos.
 
-* Touch-enabled sidebar / drawer for mobile, including fallback when JS is disabled.
-* Github Pages compatible tag support based on [this post][tag].
-* Customizable link color and sidebar image, per-site, per-tag and per-post.
-* Optional author section at the bottom of each post.
-* Posts grouped by year on front and tag page.
-* Social media icons (github, twitter) on sidebar.
-* Optional comment section powered by Disqus.
-* Math blocks via [KaTeX](https://khan.github.io/KaTeX/).
+Seguindo esses conceitos, podemos entender o ciclo do TDD:
+
+* <font style="color: red;">RED: O teste falha.</font>
+* <font style="color: green;">GREEN: O teste passou.</font>
+* <font style="color: blue;">REFACTOR: Otimizar o código escrito.</font>
+
+<img src="{{ site.url }}/public/img/what_is_tdd/tdd.png" alt="">
 
 ## Download
 
@@ -46,7 +49,7 @@ Since the background image contributes to the feel of the page I'm letting it pe
 ### Preview
 {:.preview}
 
-<iframe class="preview" src="/hydejack/2016/03/08/introducing-hydejack/" style="border: 1px solid #ddd; width: 340px; height: 520px; margin-top: 1rem"></iframe>
+<iframe class="preview" src="/anchietajunior.github.io/2016/08/26/what-is-tdd/" style="border: 1px solid #ddd; width: 340px; height: 520px; margin-top: 1rem"></iframe>
 
 ## Manual
 
