@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing Hydejack
+title: Setup RSpec and Capybara with Rails 5
 tags: [hyde]
 ---
 
