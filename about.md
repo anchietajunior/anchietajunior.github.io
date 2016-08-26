@@ -15,4 +15,4 @@ title: About
 
 {{ site.author.about }}
 
-[write something about self]
+Atualmente faço parte da equipe de desenvolvimento na RoyalTI, também como conhecida como Estoque Sistemas, uma empresa de Paulo Afonso - BA focada atualmente ma distribuição e suporte em sistemas de automação comercial, mas que atualmente está investindo em novas soluções principalmente com Ruby on Rails, Angular e tecnologias emergentes.
