@@ -7,7 +7,7 @@ url:              http://anchietajunior.github.io
 # Set to '' in case of hosting on `http://<your-github-name>.github.io`
 baseurl:          /anchietajunior.github.io
 
-title:            Anchieta Junior
+title:            Anchieta Júnior
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:      >
@@ -21,7 +21,7 @@ image:            /anchietajunior.github.io/public/img/nap.jpg
 color:            '#A85641'
 
 author:
-  name:           'Florian Klampfer'
+  name:           'Anchieta Júnior'
 
   # Setting social media usernames will add icons at the bottom of the sidebar
   twitter:        anchietajr87
@@ -35,10 +35,8 @@ author:
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:          |
-    Hi, I'm Florian or [`@qwtel`](https://www.twitter.com/qwtel), which isn't an acronym,
-    I just [wanted a short username](http://qwtel.com/how-to-find-a-short-username) and that one happened to be available.
-
-    Read my thoughts on [#software](http://qwtel.com/tag/software) and [#cryptoeconomics](http://qwtel.com/tag/cryptoeconomics).
+    Olá, desenvolvo pra web desde 2006, mas a 2 anos que realmente estou ativo na comunidade Ruby on Rails
+    e front-end.
 
 kramdown:
   math_engine: mathjax
