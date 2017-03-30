@@ -11,7 +11,7 @@ title:            Anchieta Jr.
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:      >
-  A simple Blog for learn and share content about Ruby on Rails, Front-end, Javascript and its tools.
+  Ta afim de ler sobre Ruby, Rails e Javascript? É aqui mesmo.
 
 # The tags listed as entries in the sidebar
 #sidebar_tags:     [jekyll, hyde, projects]
@@ -24,18 +24,20 @@ author:
   name:           'Anchieta Jr.'
 
   # Setting social media usernames will add icons at the bottom of the sidebar
+  facebook:       anchietajunior87
   twitter:        anchietajr87
   github:         anchietajunior
+  steam:          santosjr87
 
   # Setting a disqus username will enable the comment section
   disqus:         qwtel
 
   # This photo will be used in the about section
-  photo:          https://scontent-gru2-1.xx.fbcdn.net/v/t1.0-9/13892262_1158950754161232_6160593922822561774_n.jpg?oh=fe2819897ea77b046992edcb01371adc&oe=5847F13D
+  photo:          https://scontent.fmcz1-1.fna.fbcdn.net/v/t1.0-9/14681612_1228182010571439_9067852377281544468_n.jpg?oh=4b146461f0c5f13663d2f655743a5340&oe=593B58B0
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:          |
-    Olá, desenvolvo pra web desde 2006, mas a 2 anos que realmente estou ativo na comunidade Ruby on Rails
+    Olá, desenvolvo pra web desde 2006, mas a 4 anos que realmente estou ativo na comunidade Ruby on Rails
     e front-end.
 
 kramdown:

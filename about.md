@@ -15,8 +15,12 @@ title: About me
 
 {{ site.author.about }}
 
-Sou acadêmico em Sistemas de Informação.
+Sou ex-acadêmico em Sistemas de Informação pela Faculdade 7 de Setembro (Paulo Afonso-BA).
 
-Atualmente faço parte da equipe de desenvolvimento na RoyalTI, também como conhecida como Estoque Sistemas, uma empresa de Paulo Afonso - BA focada atualmente na distribuição e suporte em sistemas de automação comercial, mas que atualmente está investindo em novas soluções principalmente com Ruby on Rails, Angular e tecnologias emergentes.
+Desde agosto de 2016 faço parte da equipe de desenvolvimento do Instituto Padre Pio, empresa situada em Cuiabá e Londrina.
 
-Também sou fundador e organizador do GDG Paulo Afonso, do qual tenho bastante orgulho em fazer parte e contribuir. :green_heart:
+Para ver outros trabalhos meus, acesse: [Linkedin](https://www.linkedin.com/in/anchieta-j%C3%BAnior-69568630/).
+
+Hoje minhas atividades estão focadas em Ruby on Rails e Javascript, além de Front-End quando necessário.
+
+Também sou GDG Lead e Organizer em Paulo Afonso, do qual tenho bastante orgulho em fazer parte e contribuir.
